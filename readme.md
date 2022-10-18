@@ -1,13 +1,13 @@
 # Curso HTML5 e CSS3: Alura
 
-## Parte 1: crie uma página web
+## Módulo 1: crie uma página web
 
 ### 01 - Marcação do primeiro texto
-    Introdução ao HTML e às suas tags
-    Título e os parágrafos de um texto com tags <h1> e <p>
-    Informações do texto:
-    - negrito usando <strong>
-    - itálico pela tag <em>
+Introdução ao HTML e às suas tags
+Título e os parágrafos de um texto com tags <h1> e <p>
+Informações do texto:
+- negrito usando <strong>
+- itálico pela tag <em>
 ### 02 - Separando o conteúdo e informações
     Estrutura básica do HTML
     DOCTYPE: define a versão do HTML utilizado
@@ -46,7 +46,9 @@
     Cabeçalho da página utilizando <header>, que deve ter mais destaque
     Não é recomendado criar estilos usando tags
     Ideal é a utilização de classes.
-    
-## Parte 2:
-## Parte 3:
-## Parte 4:
+
+## Módulo 2:
+
+
+## Módulo 3:
+## Módulo 4:
