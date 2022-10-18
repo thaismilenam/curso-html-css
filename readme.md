@@ -3,11 +3,11 @@
 ## Módulo 1: crie uma página web
 
 ### 01 - Marcação do primeiro texto
-Introdução ao HTML e às suas tags
-Título e os parágrafos de um texto com tags <h1> e <p>
-Informações do texto:
-- negrito usando <strong>
-- itálico pela tag <em>
+    Introdução ao HTML e às suas tags
+    Título e os parágrafos de um texto com tags <h1> e <p>
+    Informações do texto:
+    - negrito usando <strong>
+    - itálico pela tag <em>
 ### 02 - Separando o conteúdo e informações
     Estrutura básica do HTML
     DOCTYPE: define a versão do HTML utilizado
