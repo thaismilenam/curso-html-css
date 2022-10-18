@@ -47,8 +47,42 @@
     Não é recomendado criar estilos usando tags
     Ideal é a utilização de classes.
 
-## Módulo 2:
+## Módulo 2: posicionamento, listas e navegação
 
+### 01 - Criando uma nova página
+    Revisão da base de uma página HTML
+    Lista HTML não ordenada
+### 02 - Navegação entre as páginas
+    Criar links para outras páginas, do projeto ou páginas externas
+    Reforço aos estilos inline e block
+    Transformar o texto para todas as letras maiúsculas: uppercase
+    Texto em negrito com CSS usando bold
+    Como remover a decoração do texto
+### 03 - Posicionamento dos elementos
+    Remover os estilos que o navegador cria, com reset.css
+    Posicionamentos static, relative e absolute dos elementos
+    Como posicionar o cabeçalho da página
+### 04 - A tag section
+    A tag main, para o conteúdo principal da nossa página
+    A criar listas complexas, com títulos, imagens e parágrafos
+    A utilizar o inline-block
+    A praticar e estilizar o conteúdo principal da nossa página
+### 05 - Lidando com bordas
+    Através do CSS, aplicar bordas nos elementos.
+    Os diferentes tipos de bordas.
+    A deixar a borda arredondada.
+### 06 - Pseudo-classes de estado
+    Pseudo-classes CSS
+    hover, quando o usuário passa o cursor sobre o elemento
+    active, quando um elemento está sendo ativado pelo usuário
+    Mudar a cor do texto e/ou da borda de um elemento, ao cursor passar sobre ele
+    Mudar a cor da borda de um elemento, ao ser ativado pelo usuário
+### 07 - Finalizando a página de produtos
+    A tag footer, para o rodapé da nossa página
+    Imagem de fundo em um elemento
+    Uso da tabela Unicode.
 
 ## Módulo 3:
+
+
 ## Módulo 4:
