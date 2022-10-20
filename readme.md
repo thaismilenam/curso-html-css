@@ -82,7 +82,73 @@
     Imagem de fundo em um elemento
     Uso da tabela Unicode.
 
-## Módulo 3:
+## Módulo 3: trabalhando com formulários e tabelas
 
+### 01 - Criando uma nova página
+    Criação da página de contato
+    Introdução a formulários
+### 02 - Começando um formulário
+    Para um formulário HTML se utiliza a tag <form>
+    <input> para a entrada de dados do usuário
+    Tag <label> para criar etiqueta de input
+    Id para o input e associamos esse id ao atributo for do label
+    Label possui o display inline e o input possui display inline-block
+### 03 - Tipos de campos diferentes
+    O textarea, para entradas de texto de mais de uma linha
+    O input do tipo radio
+    Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado
+    O input do tipo checkbox
+    Que podemos criar um input dentro de um label, assim associando-os
+    Mais estilizações para a nossa página
+    Como funciona a hierarquia no CSS
+    O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor
+### 04 - Melhorando a semântica
+    Tipos de inputs: email, tel, number, password, date, datetime, month e search
+    Não permitir que um campo não seja preenchido, pelo atributo required
+    Exibir uma sugestão de preenchimento para os campos, através do atributo placeholder
+    Deixar uma opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked
+    Estruturar melhor o nosso código com fieldset e legend
+    Adicionar uma alternativa à imagem, descrevendo-a, com o atributo alt
+### 05 - CSS avançado
+    Estilizar o botão de envio de formulário
+    Realizar transições nos nossos elementos, com a propriedade CSS transition
+    Modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento pelo cursor
+    Transições de aumentar proporcionalmente a escala do elemento ou rotacioná-lo, através do transform
+### 06 - Estrutura de tabelas
+    Tag table, que representa a tabela
+    Tag tr, linha da tabela
+    Tag td,  célula da tabela
+    Tag thead, o cabeçalho da tabela
+    Tag tbody, o corpo da tabela
+    Tag th, célula do cabeçalho da tabela
+    Tag tfoot, o rodapé da tabela
 
-## Módulo 4:
+## Módulo 4: avançando no CSS
+
+### 01 - Adaptando a página inicial Ver primeiro vídeo
+    Medidas proporcionais com CSS
+    Flutuação dos elementos, com a propriedade float do CSS
+    Propriedade clear do CSS
+### 02 - Conteúdo externo
+    Utilização de fontes externas nas nossas páginas
+    Incorporação de um mapa à página
+    Incorporação de um vídeo à página
+### 03 - Melhorando o CSS
+    Melhorar a semântica da página principal, com divisões, classes, ,pseudo-classes
+    Background gradiente na página
+    Pseudo-elementos
+### 04 - Selecionando qualquer coisa
+    Seletor >, para acessar os filhos de determinado elemento
+    Seletor +, para acessar o primeiro irmão de determinado elemento
+    Seletor ~, para acessar todos os irmãos de determinado elemento
+    Seletor not, para acessar os elementos, exceto algum
+    Propriedade calc
+### 05 - Opacidade e sombra
+    Opacidade dos elementos, com a propriedade CSS opacity
+    Opacidade das cores
+    Sombreamento em volta dos elementos, com a propriedade CSS box-shadow
+    Sombreamento em textos, com a propriedade CSS text-shadow
+### 06 -Design responsivo
+    Design responsivo: ajustar a página de acordo com o tamanho da tela do dispositivo
+    Meta tag de Viewport
+    Media Queries
